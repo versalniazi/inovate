@@ -14,7 +14,7 @@ import { pageMetadata } from "@/lib/seo";
 export const metadata = pageMetadata({
   title: "Pricing | Website & Software Packages from £15",
   description:
-    "Transparent starter pricing from INOVATE LTD: consultations from £15, landing pages from £45, business websites from £85, e-commerce from £125 and custom development from £150.",
+    "Transparent starter pricing from INOVATE LTD: consultations from £15, landing pages from £45, business websites from £85, SEO from £100, advertising from £115, e-commerce from £125 and a full growth package at £300.",
   path: "/pricing",
 });
 

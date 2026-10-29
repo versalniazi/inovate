@@ -48,7 +48,7 @@ export const services: Service[] = [
       "Test on real devices, check forms and metadata, then launch.",
     ],
     suitedFor: ["New businesses that need a credible first website", "Businesses with an outdated or hard-to-update site", "Teams launching a new service or campaign"],
-    pricingIds: ["landing-page", "business-website", "professional-website", "redesign-starter"],
+    pricingIds: ["landing-page", "business-website", "professional-website", "business-growth"],
     faqs: [
       { q: "How long does a business website take?", a: "A small starter website can often be completed within one to two weeks once content is ready. Larger sites are scheduled after we agree the scope." },
       { q: "Will I be able to update the website myself?", a: "If you need to edit content regularly we can recommend and set up a suitable content management approach as part of the quote." },
@@ -216,7 +216,7 @@ export const services: Service[] = [
       "Review performance and refine.",
     ],
     suitedFor: ["Businesses without a consistent marketing plan", "Teams launching a new product or service", "Businesses spending on ads without clear tracking"],
-    pricingIds: ["landing-page", "consultation"],
+    pricingIds: ["ad-campaign-starter", "seo-foundations", "landing-page"],
     faqs: [
       { q: "Can you guarantee results from marketing?", a: "No honest agency can guarantee specific results. We focus on clear objectives, proper tracking and steady improvement based on real data." },
     ],
@@ -249,7 +249,7 @@ export const services: Service[] = [
       "Monitor and refine over time.",
     ],
     suitedFor: ["Businesses that are hard to find online", "New websites that need a solid SEO foundation", "Local businesses targeting nearby customers"],
-    pricingIds: ["health-check", "consultation"],
+    pricingIds: ["seo-foundations", "health-check", "consultation"],
     faqs: [
       { q: "How long does SEO take to work?", a: "SEO is gradual. Technical fixes can help quickly, but improvements in rankings typically take months and depend on competition. We never promise specific rankings." },
     ],
@@ -281,7 +281,7 @@ export const services: Service[] = [
       "Report clearly and adjust.",
     ],
     suitedFor: ["Businesses launching a new offer", "Teams that want to test demand quickly", "Advertisers unsure whether their current ads are working"],
-    pricingIds: ["landing-page", "consultation"],
+    pricingIds: ["ad-campaign-starter", "landing-page", "consultation"],
     faqs: [
       { q: "Is ad spend included in your price?", a: "No. Advertising platform spend is paid separately and directly to the platform. Our fees cover planning, setup and management." },
     ],

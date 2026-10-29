@@ -18,7 +18,8 @@ const inputCls =
 function budgetFor(price: number) {
   if (price <= 50) return "£15–£50";
   if (price <= 100) return "£50–£100";
-  return "£100–£150";
+  if (price <= 150) return "£100–£150";
+  return "£150–£500";
 }
 
 export function ContactForm() {

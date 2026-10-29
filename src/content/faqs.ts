@@ -6,7 +6,7 @@ export const faqs: { group: string; items: Faq[] }[] = [
     items: [
       {
         q: "How much does a website cost?",
-        a: "Our starter packages begin at £45 for a single landing page, £85 for a business website of up to 5 pages and £110 for a professional website of up to 7 pages. Larger or more complex websites are quoted individually after we review your requirements.",
+        a: "Our starter packages begin at £45 for a single landing page, £85 for a business website of up to 5 pages and £110 for a professional website of up to 7 pages and £300 for our Business Growth Package (up to 10 pages with SEO, analytics setup and a month of support). Larger or more complex websites are quoted individually after we review your requirements.",
       },
       {
         q: "Why are your starter prices so accessible?",
@@ -64,11 +64,11 @@ export const faqs: { group: string; items: Faq[] }[] = [
       },
       {
         q: "Do you offer SEO?",
-        a: "Yes. We offer technical SEO, on-page SEO, keyword research, local SEO and audits. Every website we build includes a sound SEO structure. We do not guarantee specific rankings, because search engines control their results.",
+        a: "Yes. We offer technical SEO, on-page SEO, keyword research, local SEO and audits, starting with our £100 SEO Foundations package. Every website we build includes a sound SEO structure. We do not guarantee specific rankings, because search engines control their results.",
       },
       {
         q: "Do you offer digital marketing and advertising?",
-        a: "Yes. We plan and manage social media marketing, content, paid advertising campaigns and conversion tracking. Advertising platform spend is paid separately, and we do not guarantee specific results.",
+        a: "Yes. We plan and manage social media marketing, content, paid advertising campaigns and conversion tracking. Our £115 Ad Campaign Starter sets up one campaign with tracking. Advertising platform spend is paid separately, and we do not guarantee specific results.",
       },
       {
         q: "Do you offer website maintenance?",
